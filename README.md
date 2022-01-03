@@ -1,8 +1,8 @@
-# Transformer-from-Scratch
+# Transformer from Scratch
 
-An implementation of Transformers in PyTorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AgLOnXB7E8V7MoZMHMhcpsDba4mJkURg#scrollTo=iQTSI_VANdHq)
+An implementation of Transformers in PyTorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AgLOnXB7E8V7MoZMHMhcpsDba4mJkURg#scrollTo=iQTSI_VANdHq).
 <br>
-A single-layer transformer encoder + a linear classifer is used for sentiment analysis on IMDb dataset (~70 Accuracy).<br>
+A single-layer transformer encoder + a linear classifer is trained end-to-end for sentiment analysis on IMDb dataset (~70 Accuracy).<br>
 
 ### Todo
 - [ ] Use pre-trained word embeddings like GloVe
