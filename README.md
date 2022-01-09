@@ -8,6 +8,7 @@ A single-layer transformer encoder + a linear classifer is trained end-to-end fo
 - [ ] Use pre-trained word embeddings like GloVe
 - [ ] Handle strings with more than 512 tokens in a better way
 - [ ] Use a deeper network for better accuracy
+- [ ] Implement Vision Transformer (ViT) 
 
 ### Resources
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
